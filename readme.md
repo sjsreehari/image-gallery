@@ -5,4 +5,4 @@ Hey! Welcome to this super simple image gallery. It lets you click on small thum
 ## What’s Inside:
 - Click on any thumbnail to see the image in full-size.
 - A button that lets you toggle a dark overlay on the image for that moody effect (click again to make it go away).
-
+Check it out live here: [Image Gallery](https://sjsreehari.github.io/image-gallery/)
